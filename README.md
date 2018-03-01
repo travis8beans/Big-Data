@@ -9,6 +9,11 @@ Are you an obstetrician? Do you have patients that are indecisive on names, or h
   - Assignment description (i.e. What did this project ask you to do?)
 2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
 3.	List the set of three to five questions you sought to answer. 
+   a) What are the **most popular** set of names the **male sex** has?
+   b) What are the **most popular** set of names the **female sex** has?
+   c) What are the **least popular** set of names the **male sex** has?
+   d) What are the **least popular** set of names the **female sex** has?
+   e) How can we intergrate this data with searchability, which accounts for ethnicity, sex, etc.
 4.	Identify each permanent data set you used. For each set, you must: 
   - Provide the permanent URL.
   - Briefly describe the data set. **Each description should be no more than 100 words.**
