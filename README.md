@@ -3,7 +3,7 @@
 Are you an obstetrician? Do you have patients that are indecisive on names, or have patients that are choosing bad names like "Lasagna" or "Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso"? Are you one of those parents? Well we have the resources for you!
 
 1. Provide an introduction section that contains the following information:
-  Travis Thomas, Seth Goodson and Seth Francke were asked to create a website to offer
+  Travis Thomas, Seth Goodson and Seth Francke were asked to create a website to offer obstetricians a method of giving patients a baby naming system.
   - Names of group members
   - Links to other group members collaborative report pages
   - Assignment description (i.e. What did this project ask you to do?)
