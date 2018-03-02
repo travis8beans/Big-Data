@@ -17,7 +17,7 @@ Travis Thomas, Seth Goodson and Seth Francke were asked to create a website to o
    
   d) What are the **least popular** set of names the **female sex** has?
    
-  e) How can we intergrate this data with searchability, which accounts for ethnicity, sex, etc.
+  e) How can we intergrate this data with searchability, which accounts for ethnicity, sex, etc.?
 
 4.	Identify each permanent data set you used. For each set, you must: 
   - Provide the permanent URL.
