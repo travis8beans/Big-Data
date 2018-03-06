@@ -7,8 +7,8 @@ Travis Thomas, Seth Goodson and Seth Francke were asked to create a website to o
   - Links to other group members collaborative report pages
   - Assignment description (i.e. What did this project ask you to do?)
 2. Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be **no more than 200 words.** 
-3.	List the set of three to five questions you sought to answer. 
-   
+We sought to answer these questions with this service:
+
   a) What are the **most popular** set of names the **male sex** has (top 10)?
    
   b) What are the **most popular** set of names the **female sex** has (top 10)?
